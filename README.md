@@ -2,7 +2,7 @@
 
 Application is deployed links:
 
-Heroku:https://stark-gorge-39407.herokuapp.com/
+Heroku:
 Github: https://adrianauch.github.io/Budget-Tracker/
 
 ## Description:
